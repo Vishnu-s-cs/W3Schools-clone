@@ -222,3 +222,28 @@ i .visible{
     display: flex;
     margin-bottom: -96px;
 }
+.special{
+    display: flex;
+}
+.c{
+    background: #FFC0C7;
+    height: 146px;
+    margin-top: 143px;
+    margin-left: 4vw;
+    width: 42vw;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    margin-bottom: 11px;
+}
+.cs{
+    background: #FFF4A3;
+    height: 146px;
+    margin-top: 143px;
+    margin-left: 8vw;
+    width: 42vw;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    margin-bottom: 11px;
+}
