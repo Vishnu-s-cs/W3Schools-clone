@@ -128,6 +128,80 @@ i .visible{
 }
 .html{
     background: #D9EEE1;
-    height: 400px;
+    height: 587px;
     margin-top: -14px;
+    display: flex;
+}
+.desc
+{
+    padding-top: 13vh;
+    padding-left: 41vh;
+}
+.desc button{
+    position: relative;
+    margin-top: 24px;
+    width: 187px;
+    margin-left: 21px;;
+    height: 37px;
+    border-radius: 22px;
+    border: none;
+    font-weight: 700;
+}
+.example img{
+    padding-left: 249px;
+    padding-top: 79px;
+    width: 611px;
+}
+.css
+{
+    background: #FFF4A3;
+    height: 587px;
+    margin-top: -14px;
+    display: flex;
+}
+.js
+{
+    height: 587px;
+    margin-top: -14px;
+    display: flex;
+}
+.python
+{
+    background: #F3ECEA;
+    height: 587px;
+    margin-top: -14px;
+    display: flex;
+}
+.sql{
+    background: #96D4D4;
+    height: 587px;
+    margin-top: -14px;
+    display: flex;
+}
+.php{
+    height: 272px;
+    width: 670px;
+    background: #FFC0C7;
+    margin: 87px;
+    border-radius: 11px;
+}
+.items{
+    margin: auto;
+    height: auto;
+    width: auto;
+    color: black;
+    padding: 57px 189px;
+}
+.title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.items .desc{
+    padding-left: 28px;
+    color:#3a3a3a;
+    font-weight: 600;
+    padding-left: 9px;
+}
+.items button{
+    color:#3a3a3a;
 }
