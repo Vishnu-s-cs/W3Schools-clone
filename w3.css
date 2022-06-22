@@ -340,3 +340,39 @@ i .visible{
     font-weight: 600;
     border-radius: 22px;
 }
+.colorPicker{
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 65vh;
+}
+.games img{
+    object-fit: cover;
+    width: 100%;
+}
+.image2{
+    background: url(./w3codes.png) no-repeat fixed center;
+    background-size: 95rem 64rem;
+    width: 100%;
+    margin-top: -5px;
+    text-align: center;
+}
+.enq{
+    opacity: 0.96;
+    margin: auto;
+    padding: 85px 20px;
+}
+.btns{
+    display: flex;
+    height: 84px;
+    height: 132px;
+    margin-left: 382px;
+    margin-top: 50px;
+}
+.btns button{
+    width: 350px;
+    margin-right: 33px;
+    border: none;
+    border-radius: 7px;
+    font-size: 23px;
+}
