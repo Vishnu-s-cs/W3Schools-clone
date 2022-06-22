@@ -5,6 +5,7 @@ body{
     margin: 0;
     color: white;
     background-color: #282A35;
+    overflow-x: hidden;
 }
 nav{
     position:relative;
