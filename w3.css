@@ -294,3 +294,26 @@ i .visible{
     margin-bottom: -22px;
 
 }
+.codeEditor
+{
+    margin-top: 40px;
+}
+.codeEditor .desc{
+    
+    padding-left: 731px;
+}
+.codeEditor img{
+    padding-top: 50px;
+    height: 361px;
+    width: 927px;
+    margin-left: 45vh;
+}
+.codeEditor button{
+    background-color: #04AA6D;
+    color: white;
+    margin-left: 339px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    height: 35px;
+}
