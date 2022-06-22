@@ -273,3 +273,24 @@ i .visible{
     font-weight: 700;
     border-radius: 13px;
 }
+.diff{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+    margin-left: 67px;
+    margin-right: 40px;
+    margin-top: 67px;
+}
+.diff div{
+
+    background: wheat;
+    color: black;
+    height: 71px;
+    text-align: center;
+    padding-top: 36px;
+    border-radius: 13px;
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: -22px;
+
+}
