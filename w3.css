@@ -23,6 +23,7 @@ nav img{
     width: 108px;
     padding: 10px;
     margin-left: -16px;
+    cursor: pointer;
 }
 .menu {
     padding: 29px 15px;
@@ -35,6 +36,7 @@ nav img{
 .icon
 {
     padding: 29px 15px;
+    cursor: pointer;
 }
 .invisible
 {
@@ -45,6 +47,7 @@ nav img{
     border: none;
     font-size:17px;
     color:#f1f1f1;
+    cursor: pointer;
 }
 span button:hover 
 {
@@ -62,6 +65,7 @@ span button:hover
     font-size: 17px;
     width: 87px;
     background: #FFC0C7;
+    cursor: pointer;
 }
 i .visible{
     display: inline;
@@ -121,6 +125,7 @@ i .visible{
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     margin-top: 26px;
+    cursor: pointer;
 }
 .begin span:hover
 {
@@ -146,6 +151,7 @@ i .visible{
     border-radius: 22px;
     border: none;
     font-weight: 700;
+    cursor: pointer;
 }
 .example img{
     padding-left: 249px;
@@ -216,6 +222,7 @@ i .visible{
     font-weight: 700;
     background: #282A35;
     color: white;
+    cursor: pointer;
 }
 .grid
 {
@@ -246,4 +253,23 @@ i .visible{
     color: black;
     text-align: center;
     margin-bottom: 11px;
+}
+.extras{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 81vh;
+    gap: 87px;
+    margin-left: 64px;
+    margin-right: 44px;
+    margin-top: 70px;
+}
+.extras div{
+    height: 72px;
+    text-align: center;
+    padding-top: 47px;
+    color: black;
+    background: #96D4D4;
+    font-size: larger;
+    font-weight: 700;
+    border-radius: 13px;
 }
