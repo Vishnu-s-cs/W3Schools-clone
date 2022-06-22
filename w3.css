@@ -317,3 +317,26 @@ i .visible{
     border-radius: 5px;
     height: 35px;
 }
+.spaces{
+    background-color: #282A35;
+    opacity: 0.96;
+    margin: auto;
+    padding: 85px 20px;
+    
+    
+}
+.image{
+    background: #282A35 url(./priscilla-du-preez-XkKCui44iM0-unsplash.921aa0c0.jpg) no-repeat fixed center;
+    margin-top: 68px;
+    text-align: center;
+}
+.image button{
+    background-color: #04AA6D;
+    border: none;
+    margin-top: 32px;
+    color: white;
+    width: 197px;
+    height: 41px;
+    font-weight: 600;
+    border-radius: 22px;
+}
